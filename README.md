@@ -14,8 +14,8 @@ I primarily have experience working on the Full-Stack Software Engineer includin
 ### Connect: 
 - [StackOverFlow](https://stackoverflow.com/users/5974659/anas-mehar)
 - [Linkedin](https://www.linkedin.com/in/anas-mehar-68162b10b/)
-- [Twitter](https://twitter.com/anassharif1992/)
-- [Instagram](https://www.instagram.com/anas_mehar24/)
+- [Twitter](https://twitter.com/anas_sharif92)
+- [Instagram](https://www.instagram.com/anas_maher24/)
 
 
 #### Top Tech Stack:
