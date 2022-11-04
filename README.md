@@ -8,7 +8,7 @@ I am a Native App Engineer who is passionate about making robust, modern mobile 
 
 I primarily have experience working on the Full-Stack Software Engineer including Android, iOS, Laravel, Machine Learning, Stripe SDK, AWS, Firebase, MySQL etc.
 
-- 🔭 I’m currently working at [Mobizion](https://www.mobizion.com/) as a Sr. Mobile Application Engineer.
+- 💻 I’m currently working at [Mobizion](https://www.mobizion.com/) as a Mobile Application Engineer.
 ***
 
 ### Connect: 
@@ -21,7 +21,7 @@ I primarily have experience working on the Full-Stack Software Engineer includin
 #### Top Tech Stack:
 
 <a href="https://developer.apple.com/ios/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" width="40" height="40"/> </a>  <a href="https://developers.google.com/profile/u/anassharif" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="flutter" width="40" height="40"/></a> <a href = "https://laravel.com/" tarrget = "_blank"> <img src = "https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" height = "40" width = "40"/> </a><a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/php/php-ar21.svg" alt="firebase" width="40" height="40"/> </a>
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anassharif)](https://github.com/anassharif/github-readme-stats) -->
@@ -36,7 +36,7 @@ I primarily have experience working on the Full-Stack Software Engineer includin
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 💻 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
