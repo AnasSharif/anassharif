@@ -4,9 +4,9 @@
 
 ### Native Mobile App, SDK & Tall Stack.
 
-I am a Native App Engineer who is passionate about making robust, modern mobile applications, sdks. With over 5 years of working experience as a Software Engineer.
+I am a Native Mobile App Engineer who is passionate about making robust, modern mobile applications and SDKs. With over 5+ years of working experience as a Software Engineer.
 
-I primarily have experience working on the Full-Stack Software Engineer including Android, iOS, Laravel, Machine Learning, Stripe SDK, AWS, Firebase, MySQL etc.
+I primarily have experience working as a Full-Stack Software Engineer including Android, iOS, Laravel, Machine Learning, Stripe SDK, AWS, Firebase, MySQL, etc.
 
 - 💻 I’m currently working at [Mobizion](https://www.mobizion.com/) as a Mobile Application Engineer.
 ***
